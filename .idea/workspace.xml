@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8248a919-6409-489f-b9fa-4ceecefc4d6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/theme.js" afterDir="false" />
+    <list default="true" id="8248a919-6409-489f-b9fa-4ceecefc4d6c" name="Changes" comment="initial">
+      <change afterPath="$PROJECT_DIR$/app/loader/loader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/loader/loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/loader/loader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/loader/loader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/welcome/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/welcome/welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pwa.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pwa.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +42,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/caperaven projects/crs-applicaion-template-3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Development/Andre-Projects/Williams-App&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -97,6 +102,9 @@
       <workItem from="1687177382529" duration="8190000" />
       <workItem from="1687186431500" duration="13153000" />
       <workItem from="1687242750846" duration="6963000" />
+      <workItem from="1687378695399" duration="62000" />
+      <workItem from="1687378781716" duration="847000" />
+      <workItem from="1687462973267" duration="4891000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1687179819676</created>
