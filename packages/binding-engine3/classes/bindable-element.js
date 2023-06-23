@@ -1,5 +1,8 @@
 class BindableElement extends HTMLElement {
   #bid;
+  get hasStyle() {
+    return true;
+  }
   get shadowDom() {
     return false;
   }
@@ -69,7 +72,12 @@ async function load(component) {
 async function loadHtml(component) {
   if (component.html == null)
     return;
-  const html = await crs.binding.templates.get(component.constructor.name, getHtmlPath(component));
+  let styleLink = "";
+  if (component.hasStyle == true) {
+    styleLink = `<link rel="stylesheet" href="${component.html.replace(".html", ".css")}">`;
+  }
+  let html = await crs.binding.templates.get(component.constructor.name, getHtmlPath(component));
+  html = `${styleLink}${html}`;
   if (component.shadowRoot != null) {
     component.shadowRoot.innerHTML = html;
   } else {

@@ -1,4 +1,4 @@
-export class Loader extends HTMLElement {
+export class Loader extends crs.classes.BindableElement {
 
     get html() {
         return import.meta.url.replace(".js", ".html");
@@ -6,20 +6,6 @@ export class Loader extends HTMLElement {
 
     get shadowDom() {
         return true;
-    }
-
-    constructor() {
-        super();
-        this.attachShadow({mode:"open"});
-    }
-
-    async connectedCallback() {
-        this.shadowRoot.innerHTML = await fetch(this.html).then(result => result.text());
-        console.log("Loader connected");
-    }
-
-    async disconnectedCallback() {
-        console.log("Loader disconnected");
     }
     
 }

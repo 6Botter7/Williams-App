@@ -5,16 +5,91 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8248a919-6409-489f-b9fa-4ceecefc4d6c" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/app/loader/loader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/loader/loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/loader/loader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/loader/loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/loader/loader.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/loader/loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/loader/loader.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/welcome/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/welcome/welcome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/welcome/welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/welcome/welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/loader/loader.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/loader/loader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/loader/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/loader/loader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/classes/bindable-element.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/classes/bindable-element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/classes/crs-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/classes/crs-widget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/classes/observable.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/classes/observable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/classes/perspective-element.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/classes/perspective-element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/classes/view-base.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/classes/view-base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/crs-binding.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/crs-binding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/events.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/events.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/events/dom-events.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/events/dom-events.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/events/event-emitter.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/events/event-emitter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/expressions.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/expressions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/expressions/code-factories/case.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/expressions/code-factories/case.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/expressions/code-factories/if.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/expressions/code-factories/if.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/expressions/code-factories/inflation.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/expressions/code-factories/inflation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/expressions/code-factories/translate.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/expressions/code-factories/translate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/expressions/compiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/expressions/compiler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/expressions/exp-sanitizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/expressions/exp-sanitizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/expressions/exp-tokenizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/expressions/exp-tokenizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/idle/idleCallback.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/idle/idleCallback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/idle/idleTaskManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/idle/idleTaskManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/managers.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/managers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/managers/inflation-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/managers/inflation-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/managers/static-inflation-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/managers/static-inflation-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/managers/templates-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/managers/templates-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/managers/translations-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/managers/translations-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/managers/value-converters-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/managers/value-converters-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/parsers.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/parsers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/parsers/attribute.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/parsers/attribute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/parsers/attributes.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/parsers/attributes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/parsers/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/parsers/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/parsers/elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/parsers/elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/attr-base.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/attr-base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/attr-case.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/attr-case.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/attr-if.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/attr-if.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/attr.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/attr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/call.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/call.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/classlist-base.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/classlist-base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/classlist-case.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/classlist-case.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/classlist-if.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/classlist-if.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/emit.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/emit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/process.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/process.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/ref.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/ref.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/set-value.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/set-value.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/style-base.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/style-base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/style-case.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/style-case.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/style-if.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/style-if.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/style-property.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/style-property.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/utils/create-event-parameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/utils/create-event-parameters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/utils/parse-event.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/attributes/utils/parse-event.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/element/template-repeat-for.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/element/template-repeat-for.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/element/template-src.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/element/template-src.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/element/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/element/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/events/keyboard-event.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/events/keyboard-event.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/bind.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/bind.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/once.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/once.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/one-way.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/one-way.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/utils/binding-parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/utils/binding-parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/utils/binding-update.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/properties/utils/binding-update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/providers/text/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/providers/text/text.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/proxies/array-proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/proxies/array-proxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/store/binding-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/store/binding-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/store/data-def-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/store/data-def-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/store/event-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/store/event-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/store/template-inflation-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/store/template-inflation-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/store/template-provider-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/store/template-provider-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils/converter-parts.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils/converter-parts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils/dispose-properties.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils/dispose-properties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils/dom-collection-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils/dom-collection-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils/get-path-of-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils/get-path-of-file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils/get-value-on-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils/get-value-on-path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils/mark-element.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils/mark-element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils/relative-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils/relative-path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/binding-engine3/utils/set-value-on-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/binding-engine3/utils/set-value-on-path.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,30 +112,30 @@
     <option name="showMembers" value="true" />
     <option name="showModules" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Development/Andre-Projects/Williams-App&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Development/Andre-Projects/Williams-App/packages/binding-engine3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Development\Andre-Projects\Williams-App\packages\binding-engine3" />
       <recent name="F:\caperaven projects\crs-applicaion-template-3" />
       <recent name="F:\caperaven projects\crs-applicaion-template-3\styles" />
       <recent name="F:\caperaven projects\crs-applicaion-template-3\packages\crs-process-api" />
       <recent name="F:\caperaven projects\crs-applicaion-template-3\packages\crs-process-api\components\view-loader" />
-      <recent name="F:\caperaven projects\crs-applicaion-template-3\packages\binding-engine3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\caperaven projects\crs-applicaion-template-3\src" />
@@ -104,7 +179,7 @@
       <workItem from="1687242750846" duration="6963000" />
       <workItem from="1687378695399" duration="62000" />
       <workItem from="1687378781716" duration="847000" />
-      <workItem from="1687462973267" duration="4891000" />
+      <workItem from="1687462973267" duration="7757000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1687179819676</created>
